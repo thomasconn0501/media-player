@@ -56,7 +56,7 @@ and test it out on your devices!
 
   ##### Clone the repository
 ```bash
-git clone https://github.com/ishandeveloper/Apptitude-Media-Player.git
+git clone https://github.com/thomasconn0501/media-player.git
 ```
   ##### Move to the desired folder
 ```bash
@@ -75,4 +75,4 @@ For help getting started with Flutter, view the online documentation, which offe
 ##### Made with ♥ by <a href="https://github.com/ishandeveloper">ishandeveloper</a>
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ishandeveloper)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/thomasconn0501)
